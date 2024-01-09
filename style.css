@@ -342,7 +342,7 @@ img{
   margin-bottom: var(--mb-2);
 }
 .about__img{
-  width: 320px;
+  
   height: 350px;
   overflow: hidden;
   position: relative;
