@@ -85,6 +85,7 @@ img{
   display: block;
 }
 
+
 /*===== CLASS CSS ===== */
 .section-title{
   position: relative;
@@ -110,6 +111,15 @@ img{
   padding-top: 3rem;
   padding-bottom: 2rem;
 
+}
+.button1 {
+    display: inline-block;
+    background-color: var(--first-color);
+    color: #fff;
+    padding: .75rem 2.5rem;
+    font-weight: var(--font-semi);
+    border-radius: .3rem;
+    margin: 1px;
 }
 
 /*===== LAYOUT =====*/
